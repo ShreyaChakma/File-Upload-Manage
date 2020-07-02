@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: raleway;
+    background-color: aliceblue;
+}
+
+.card {
+    width: 500px;
+    margin: 80px auto 0;
+    background-color: antiquewhite;
+    box-shadow: 0 3px 30px azure;   
+    text-align: center  ;
+    font-size: 18px;
+}
+
+.card .card-header {
+    position: relative;
+    height: 48px;
+}
